@@ -12,4 +12,6 @@ Java 14
 - State
 - Builder
 - Observer
+- Flyweight
+- Facade
 
