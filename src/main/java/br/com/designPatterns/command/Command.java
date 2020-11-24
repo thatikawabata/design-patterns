@@ -1,4 +1,4 @@
-package command;
+package br.com.designPatterns.command;
 
 public interface Command {
 

@@ -1,4 +1,4 @@
-package command;
+package br.com.designPatterns.command;
 
 import java.util.ArrayList;
 import java.util.List;
