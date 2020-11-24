@@ -14,4 +14,4 @@ Java 14
 - Observer
 - Flyweight
 - Facade
-
+- Command
